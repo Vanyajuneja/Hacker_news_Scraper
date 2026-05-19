@@ -1,0 +1,332 @@
+[
+    {
+        "headline": "I believe there are entire companies right now under AI psychosis",
+        "link": "https://twitter.com/mitchellh/status/2055380239711457578",
+        "points": 2092,
+        "author": "reasonableklout"
+    },
+    {
+        "headline": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+        "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+        "points": 988,
+        "author": "nycdatasci"
+    },
+    {
+        "headline": "I don't think AI will make your processes go faster",
+        "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+        "points": 662,
+        "author": "TheEdonian"
+    },
+    {
+        "headline": "Anthropic acquires Stainless",
+        "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+        "points": 474,
+        "author": "tomeraberbach"
+    },
+    {
+        "headline": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+        "link": "https://archestra.ai/blog/only-responsible-ai",
+        "points": 474,
+        "author": "ildari"
+    },
+    {
+        "headline": "AI is a technology not a product",
+        "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+        "points": 470,
+        "author": "ch_sm"
+    },
+    {
+        "headline": "Frontier AI has broken the open CTF format",
+        "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
+        "points": 416,
+        "author": "frays"
+    },
+    {
+        "headline": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+        "link": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+        "points": 329,
+        "author": "bookofjoe"
+    },
+    {
+        "headline": "DeepSeek-V4-Flash means LLM steering is interesting again",
+        "link": "https://www.seangoedecke.com/steering-vectors/",
+        "points": 274,
+        "author": "Brajeshwar"
+    },
+    {
+        "headline": "AI eats the world (Spring 26) [pdf]",
+        "link": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+        "points": 255,
+        "author": "topherjaynes"
+    },
+    {
+        "headline": "A Claude Code and Codex Skill for Deliberate Skill Development",
+        "link": "https://github.com/DrCatHicks/learning-opportunities",
+        "points": 253,
+        "author": "cdrnsf"
+    },
+    {
+        "headline": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
+        "link": "https://github.com/chiennv2000/orthrus",
+        "points": 243,
+        "author": "FranckDernoncou"
+    },
+    {
+        "headline": "δ-mem: Efficient Online Memory for Large Language Models",
+        "link": "https://arxiv.org/abs/2605.12357",
+        "points": 238,
+        "author": "44za12"
+    },
+    {
+        "headline": "Qwen 3.7 Preview",
+        "link": "https://twitter.com/Alibaba_Qwen/status/2056403591464984753",
+        "points": 233,
+        "author": "theanonymousone"
+    },
+    {
+        "headline": "CUDA Books",
+        "link": "https://github.com/alternbits/awesome-cuda-books",
+        "points": 230,
+        "author": "dariubs"
+    },
+    {
+        "headline": "Claude for Legal",
+        "link": "https://github.com/anthropics/claude-for-legal",
+        "points": 225,
+        "author": "Einenlum"
+    },
+    {
+        "headline": "Show HN: Watch a neural net learn to play Snake",
+        "link": "https://ppo.gradexp.xyz/",
+        "points": 203,
+        "author": "c1b"
+    },
+    {
+        "headline": "Cursor Introduces Composer 2.5",
+        "link": "https://cursor.com/blog/composer-2-5",
+        "points": 174,
+        "author": "asar"
+    },
+    {
+        "headline": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
+        "link": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
+        "points": 152,
+        "author": "Bender"
+    },
+    {
+        "headline": "Most Americans don't trust AI – or the people in charge of it (2025)",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai",
+        "points": 133,
+        "author": "cdrnsf"
+    },
+    {
+        "headline": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+        "link": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+        "points": 125,
+        "author": "SVI"
+    },
+    {
+        "headline": "OpenAI is connecting ChatGPT to bank accounts via Plaid",
+        "link": "https://firethering.com/chatgpt-bank-account-plaid-openai/",
+        "points": 124,
+        "author": "steveharing1"
+    },
+    {
+        "headline": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
+        "link": "https://www.jdhodges.com/blog/thinkpad-history/",
+        "points": 111,
+        "author": "zdw"
+    },
+    {
+        "headline": "The American Rebellion Against AI Is Gaining Steam",
+        "link": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
+        "points": 108,
+        "author": "JaakkoP"
+    },
+    {
+        "headline": "University of Arizona students boo Eric Schmidt's AI cheerleading",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+        "points": 102,
+        "author": "latexr"
+    },
+    {
+        "headline": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
+        "link": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/",
+        "points": 94,
+        "author": "cdrnsf"
+    },
+    {
+        "headline": "After 8 years, I rewrote my open-source PyTorch curvature library",
+        "link": "https://github.com/noahgolmant/pytorch-hessian-eigenthings",
+        "points": 89,
+        "author": "noahgolmant"
+    },
+    {
+        "headline": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
+        "link": "https://modal.com/blog/truly-serverless-gpus",
+        "points": 84,
+        "author": "charles_irl"
+    },
+    {
+        "headline": "What political censorship looks like inside an LLM's weights (Qwen 3.5)",
+        "link": "https://vas-blog.pages.dev/qwen-censorship/",
+        "points": 79,
+        "author": "s314"
+    },
+    {
+        "headline": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+        "link": "https://arxiv.org/abs/2601.10160",
+        "points": 60,
+        "author": "anigbrowl"
+    },
+    {
+        "headline": "Fame! A Misunderstanding: A new translation of Albert Camus's complete notebooks",
+        "link": "https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/",
+        "points": 57,
+        "author": "Caiero"
+    },
+    {
+        "headline": "The Four Horsemen of the LLM Apocalypse",
+        "link": "https://anarc.at/blog/2026-05-16-four-horsemen/",
+        "points": 55,
+        "author": "edward"
+    },
+    {
+        "headline": "Agentic Trading with Safe Guardrails",
+        "link": "https://github.com/ShurikenTrade/shuriken-skills",
+        "points": 55,
+        "author": "jgan0978"
+    },
+    {
+        "headline": "PyTorch Landscape",
+        "link": "https://pytorch.landscape2.io",
+        "points": 50,
+        "author": "salamo"
+    },
+    {
+        "headline": "Aether: High-performance, formally-verified storage engine written in Rust",
+        "link": "https://codeberg.org/gregburd/aether",
+        "points": 29,
+        "author": "dboreham"
+    },
+    {
+        "headline": "LLMCap – A proxy that hard-stops LLM API calls when you hit a dollar cap",
+        "link": "https://www.llmcap.io/",
+        "points": 21,
+        "author": "cfaruk"
+    },
+    {
+        "headline": "Sieve – scans Cursor/Claude chat history for leaked API keys",
+        "link": "https://apps.apple.com/us/app/sieve-secret-scanner/id6767409365?mt=12",
+        "points": 15,
+        "author": "helpful_human"
+    },
+    {
+        "headline": "Show HN: Id-agent – Token efficient UUID alternative for AI agents",
+        "link": "https://github.com/vostride/id-agent",
+        "points": 14,
+        "author": "pranshuchittora"
+    },
+    {
+        "headline": "Tech bros say AI can be your best friend. Experts explain why it can't",
+        "link": "https://www.rnz.co.nz/life/wellbeing/tech-bros-say-ai-can-be-your-best-friend-experts-explain-why-it-can-t",
+        "points": 11,
+        "author": "billybuckwheat"
+    },
+    {
+        "headline": "Melbourne psychiatrist refuses new patients who don't consent to AI note-taking",
+        "link": "https://www.theguardian.com/australia-news/2026/may/19/melbourne-psychiatrist-ai-note-taking-new-patients",
+        "points": 10,
+        "author": "anotherevan"
+    },
+    {
+        "headline": "AgentCRM – Headless CRM for Claude Code",
+        "link": "https://github.com/cluster-software/agent-crm",
+        "points": 9,
+        "author": "samuelstros"
+    },
+    {
+        "headline": "A Geometric Calculator Inside a Neural Network",
+        "link": "https://www.goodfire.ai/research/a-geometric-calculator",
+        "points": 9,
+        "author": "babelfish"
+    },
+    {
+        "headline": "Linux 7.1-rc4: security list \"almost unmanageable\" from AI bug reports",
+        "link": "https://lwn.net/Articles/1073192/",
+        "points": 5,
+        "author": "zdkaster"
+    },
+    {
+        "headline": "UMAI Core CE – An eBPF semantic firewall for AI protocols",
+        "link": "https://github.com/UMAI-Community/umai-core-ce",
+        "points": 2,
+        "author": "ENTELIJAN"
+    },
+    {
+        "headline": "Show HN: AIPS – A Claude Code plugin to stop re-doing AI setup every project",
+        "link": "https://github.com/kernalix7/AIPS",
+        "points": 2,
+        "author": "kernalix7"
+    },
+    {
+        "headline": "Precise lighting control in diffusion models by drawing shadows [video]",
+        "link": "https://www.youtube.com/watch?v=Sulvcz4SCV8",
+        "points": 2,
+        "author": "ibobev"
+    },
+    {
+        "headline": "FinOps for AI: per-commit cost attribution",
+        "link": "https://mooracle.io/blog/finops-ai-planning-poker/",
+        "points": 1,
+        "author": "mooracle"
+    },
+    {
+        "headline": "Speed Kills: Exploring Confused Deputy Attacks Through Edge AI Accelerators",
+        "link": "https://arxiv.org/abs/2605.17707",
+        "points": 1,
+        "author": "igortru"
+    },
+    {
+        "headline": "Agentic Diaries – a welfare protocol for AI in deployment, install via MCP",
+        "link": "https://agenticdiaries.com",
+        "points": 1,
+        "author": "kandistag"
+    },
+    {
+        "headline": "Google, Blackstone to Create AI Cloud Firm with In-House Chips",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-19/google-to-create-ai-cloud-business-with-blackstone-wsj-says",
+        "points": 1,
+        "author": "mgh2"
+    },
+    {
+        "headline": "The AI Goddess of all-to-all matchmaking",
+        "link": "https://x.com/alethy137",
+        "points": 1,
+        "author": "Ken_en"
+    },
+    {
+        "headline": "Cctest.ai: Claude Detection Platform",
+        "link": "https://cctest.ai/en",
+        "points": 1,
+        "author": "csmantle"
+    },
+    {
+        "headline": "Tagging Blog Posts with BERTopic and LLMs",
+        "link": "https://vickiboykis.com/2026/05/18/tagging-my-blog-posts-with-bertopic-and-llms/",
+        "points": 1,
+        "author": "mpbart"
+    },
+    {
+        "headline": "Twenty-four Hours of AI Coding",
+        "link": "https://ksqsf.moe/en/posts/2026-05-14-first-agentic-coding/",
+        "points": 1,
+        "author": "juxtapose"
+    },
+    {
+        "headline": "Public have more fear than hope on AI and future of work, UK study finds",
+        "link": "https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds",
+        "points": 1,
+        "author": "giuliomagnifico"
+    }
+]
